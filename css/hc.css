@@ -47,7 +47,6 @@ p
 {
   font-size:20px;
   list-style:none;
-  font-weight:lighter;
   line-height:250%;
   padding-bottom:30px
 }
@@ -216,7 +215,6 @@ blockquote
 
 ul,ol
 {
-  font-weight:lighter
 }
 
 pre
@@ -267,7 +265,7 @@ pre
   font-size:3em;
   font-family:"Helvetica Neue", sans-serif;
   font-weight:bolder;
-  color:#616A7F;
+  color:#313A4F;
   text-align:center;
   padding-top:30%
 }
