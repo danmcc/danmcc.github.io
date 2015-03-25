@@ -1,7 +1,7 @@
-name: dan&rsquo;s plot
+name: Dan&rsquo;s Plot
 author: Dan McCormick
 markdown: redcarpet
-pygments: true
+highlighter: true
 baseurl: /
 url: 
 description: A blog about code, crops, and cognition.

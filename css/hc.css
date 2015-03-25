@@ -389,9 +389,10 @@ img
   padding:10px 40px 0
 }
 
-.post
+.post p
 {
-  padding-bottom:30px
+  font-size: 1.3em;
+  padding-bottom: 30px;
 }
 
 .user-social
